@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/siren-k/study-learning-functional-programming-in-go/cmd/ch02/02_factor_example/cart"
+	"github.com/siren-k/study-learning-functional-programming-in-go/ch02/02_factor_example/cart"
 	. "github.com/wesovilabs/koazee"
 	"log"
 	"strings"

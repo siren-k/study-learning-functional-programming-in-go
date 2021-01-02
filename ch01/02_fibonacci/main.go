@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	. "github.com/siren-k/study-learning-functional-programming-in-go/cmd/ch01/02_fibonacci/internal"
+	. "github.com/siren-k/study-learning-functional-programming-in-go/ch01/02_fibonacci/internal"
 )
 
 func main() {

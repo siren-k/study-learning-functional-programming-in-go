@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	. "github.com/siren-k/study-learning-functional-programming-in-go/cmd/ch01/01_oop/internal"
+	. "github.com/siren-k/study-learning-functional-programming-in-go/ch01/01_oop/internal"
 )
 
 // Essentially, it performs the same operations as command line code.

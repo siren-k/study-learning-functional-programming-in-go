@@ -1,7 +1,7 @@
 package main
 
 import (
-	. "github.com/siren-k/study-learning-functional-programming-in-go/cmd/ch02/01_collection_interation/internal"
+	. "github.com/siren-k/study-learning-functional-programming-in-go/ch02/01_collection_interation/internal"
 )
 
 // There is a problem that the desired and implementation methods are mixed.

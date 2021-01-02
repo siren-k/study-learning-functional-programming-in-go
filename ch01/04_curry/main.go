@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	. "github.com/siren-k/study-learning-functional-programming-in-go/cmd/ch01/04_curry/internal"
+	. "github.com/siren-k/study-learning-functional-programming-in-go/ch01/04_curry/internal"
 )
 
 // Function literals are functions that are treated as first-class objects of
