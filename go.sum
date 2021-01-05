@@ -1,3 +1,5 @@
+github.com/admobi/easy-metrics v0.0.0-20170704124055-5ed4e60cf060 h1:kAKDYIJngW6gE7+4CVxJJdNdEGCFXYV5pyR2V7zcJsE=
+github.com/admobi/easy-metrics v0.0.0-20170704124055-5ed4e60cf060/go.mod h1:RyhHk4TrpB36sebDfJRQQg6QQ4A8JphX0239V5QB0zU=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/franela/goblin v0.0.0-20180407132755-cd5d08fb4ede h1:7xeyXGhglRmH/zT+5dgsjB5zu/NVJgZn4WrIB9vYcFE=
