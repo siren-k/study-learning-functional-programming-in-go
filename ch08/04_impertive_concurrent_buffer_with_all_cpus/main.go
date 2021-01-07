@@ -81,8 +81,8 @@ func main() {
 	numberOfOrders := len(orders)
 	cpus := runtime.NumCPU()
 	runtime.GOMAXPROCS(cpus)
-	input := make(chan Order, numberOfOrders)
-	output := make(chan Order, numberOfOrders)
+	input := make(chan Order, cpus)
+	output := make(chan Order, cpus)
 	for i := 0; i < numberOfOrders; i++ {
 		go func() {
 			for order := range input {
